@@ -1,6 +1,6 @@
 {
   "name": "js-colormaps-es",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "type": "module",
   "author": "Paper Folding",
   "homepage": "https://github.com/Paper-Folding/js-colormaps",
@@ -11,5 +11,6 @@
   },
   "devDependencies": {
     "vite": "^4.4.5"
-  }
+  },
+  "main": "src/js-colormaps.js"
 }
