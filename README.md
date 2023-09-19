@@ -42,7 +42,7 @@ Array(3) [ 106, 172, 208 ]
 
 [All of matplotlib’s colormaps](https://matplotlib.org/stable/tutorials/colors/colormaps.html) are available, under the same name that you would use in Python: 
 
-![](images/overview.png)
+![](overview.png)
 
 *(Feel free to check out the `overview.html` file to see how this overview figure was created.)*
 

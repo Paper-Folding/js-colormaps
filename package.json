@@ -1,0 +1,15 @@
+{
+  "name": "js-colormaps-es",
+  "version": "0.0.1",
+  "type": "module",
+  "author": "Paper Folding",
+  "homepage": "https://github.com/timothygebhard/js-colormaps",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build-lib": "vite build --config ./config/vite.config.build-lib.js"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  }
+}
