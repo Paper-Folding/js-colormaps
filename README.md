@@ -22,6 +22,16 @@ Most of the magic is contained in the `js-colormaps.js` file, which you need to 
 <script src="js-colormaps.js"></script>
 ```
 
+or install with yarn:
+```sh
+yarn add js-colormaps-es
+```
+
+or npm:
+```sh
+npm i js-colormaps-es
+```
+
 Once you have loaded that file, you have either use the function `evaluate_cmap(x, name, reverse)`  to map a value `x` onto a color using the colormap specified by `name` and `reverse`:
 
 ```javascript

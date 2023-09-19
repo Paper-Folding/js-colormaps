@@ -1,9 +1,9 @@
 {
   "name": "js-colormaps-es",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "author": "Paper Folding",
-  "homepage": "https://github.com/timothygebhard/js-colormaps",
+  "homepage": "https://github.com/Paper-Folding/js-colormaps",
   "license": "MIT",
   "scripts": {
     "dev": "vite",
