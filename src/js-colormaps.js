@@ -188,7 +188,7 @@ export function evaluate_cmap(x, name, reverse) {
    */
 
   // Ensure that the value of `x` is valid (i.e., 0 <= x <= 1)
-  if (!(0 <= x <= 1)) {
+  if (!(0 <= x  && x <= 1)) {
     throw new Error('Illegal value for x! Must be in [0, 1].')
   }
 
